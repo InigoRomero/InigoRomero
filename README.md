@@ -4,7 +4,7 @@ Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 
 - 🔭 I’m currently studying **Computer Science** at 42Madrid
 - 🌱 I’m currently learning **C++**
-- ⚙️ I'm currently working at **CPP Modu,es** and **WebDev**
+- ⚙️ I'm currently working at **CPP Modules** and **WebDev**
 - 📚 My technologies: **C**, **PHP**, **React JS**, **JS**, **Laravel** and **NodeJS**
  
 ---
@@ -18,4 +18,5 @@ Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 ![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/iromero-)
 ---
 ![Iñigo's github stats](https://github-readme-stats.vercel.app/api?username=InigoRomero&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoRomero&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoRomero&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
