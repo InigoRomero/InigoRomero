@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Iñigo 👋
 
-<!--
-**InigoRomero/InigoRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying **Computer Science** at 42Madrid
+- 🌱 I’m currently learning **C++**
+- ⚙️ I'm currently working at **CPP Modu,es** and **WebDev**
+- 📚 My technologies: **C**, **PHP**, **React JS**, **JS**, **Laravel** and **NodeJS**
+ 
+---
+### 📬 Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Intra profile: [<img alt="42intra" width="26px" src="https://simpleicons.org/icons/42.svg" />](https://profile.intra.42.fr/users/iromero-)
+- GitHub: [<img alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />](https://github.com/InigoRomero)
+- LinkedIn: [<img alt="LinkedIn" width="26px" src="https://simpleicons.org/icons/linkedin.svg" style />](https://www.linkedin.com/in/iromero-/)
+- Mail: <a href="mailto:igoromero@gmail.com"><img alt="mail" width="26px" src="https://simpleicons.org/icons/gmail.svg" /></a>
+---
+![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/iromero-)
+---
+![Iñigo's github stats](https://github-readme-stats.vercel.app/api?username=InigoRomero&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InigoRomero&layout=compact)
