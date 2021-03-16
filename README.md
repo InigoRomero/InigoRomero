@@ -7,6 +7,8 @@ Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 - ⚙️ I'm currently working at **Webserv** and **WebDev**
 - 📚 My technologies: **C**, **PHP**, **React JS**, **JS**, **Laravel** and **NodeJS**
  
+ ![InigoRomero's profile views](https://komarev.com/ghpvc/?username=InigoRomero&color=a960ff&style=flat)
+ 
 ---
 ### 📬 Get in Touch
 
