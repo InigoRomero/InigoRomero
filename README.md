@@ -1,5 +1,5 @@
 # Hello, I'm Iñigo 👋
-Currently working as a Backend developer in node JS. Web developer with 2+ years of experience
+Currently working as a Backend developer in node JS. Web developer with 2+ years of experience <br>
 Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 
 - 🔭 I’m currently studying **Computer Science** at 42Madrid
