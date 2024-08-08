@@ -1,11 +1,8 @@
 # Hello, I'm Iñigo 👋
-Web developer with 2+ years of experience. Currently working as a Backend developer in node JS. <br>
+Web developer with 4+ years of experience. Currently working as a Backend developer in node JS. <br>
 Computer Science student at [42Madrid](https://www.42.fr/42-network/).
 
-- 🔭 I’m currently studying **Computer Science** at 42Madrid
-- 🌱 I’m currently learning **C++**
-- ⚙️ I'm currently working at **Webserv** and **WebDev**
-- 📚 My technologies: **C**, **PHP**, **React JS**, **JS**, **Laravel** and **NodeJS**
+- 📚 My technologies: **Node JS**, **React JS**, **JS** and **Typescript** 
  
  ![InigoRomero's profile views](https://komarev.com/ghpvc/?username=InigoRomero&color=a960ff&style=flat)
  
